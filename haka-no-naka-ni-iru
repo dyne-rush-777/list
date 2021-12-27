@@ -1,0 +1,17 @@
+{
+  "title": "(C80) [Mousou Deguchi (Unou)] Hako no Naka ni Iru (Dragon Quest III)",
+  "description": "",
+  "artist": "Unou",
+  "author": "Unou",
+  "cover": "https://i.imgur.com/ys1rbPH.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/42hRdO0/"
+      },
+      "last_updated": "1640566272"
+    }
+  }
+}
